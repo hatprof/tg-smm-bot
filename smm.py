@@ -16,3 +16,5 @@ if __name__ == "__main__":
     # Replace 'GROUP_OR_CHANNEL_ID' with the ID of the group or channel you want to join
     group_or_channel_id = 'GROUP_OR_CHANNEL_ID'
     join_group_or_channel(group_or_channel_id)
+
+//tool made my codeprofessor on telegram
