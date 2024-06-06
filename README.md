@@ -24,5 +24,6 @@ developer - https://t.me/pysmart
 
 ![IMG_7590](https://github.com/hatprof/tg-scraper-adder/assets/168838963/6bc8cbac-24bd-4d02-a75b-e10bfc598e5e)
 
+ACTIVE ✅
   
 
